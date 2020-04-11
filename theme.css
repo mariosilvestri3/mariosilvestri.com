@@ -1,0 +1,10 @@
+body {
+  background-color: white
+}
+
+h1 {
+  color: black;
+  font-family: 'Kanit', sans-serif;
+  text-align: right;
+  padding-right: 20%;
+}
